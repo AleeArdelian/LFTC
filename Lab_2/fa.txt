@@ -1,0 +1,11 @@
+A B
+a b c
+S
+K
+(S,a)->A
+(A,a)->A
+(S,b)->B
+(A,b)->B
+(B,a)->K
+(B,b)->K
+(B,c)->K
