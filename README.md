@@ -25,11 +25,11 @@ In addition, the program should be able to determine the lexical errors, specify
 
 The scanner assignment will be diferentiated based on:
 	1. Identifiers:
-		length at most 8 characters
+		- length at most 8 characters
 	2. Symbol Table:
-		unique for identifiers and constants
+		- unique for identifiers and constants
 	3. Symbol Table Organization:
-		lexicographically binary tree
+		- lexicographically binary tree
 
 
 ~Lab 2:
