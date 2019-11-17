@@ -24,12 +24,13 @@ Statement: Considering a small programming language (that we shall call mini-lan
 In addition, the program should be able to determine the lexical errors, specifying the location, and, if possible, the type of the error.
 
 The scanner assignment will be diferentiated based on:
-	1. Identifiers:
-		- length at most 8 characters
-	2. Symbol Table:
-		- unique for identifiers and constants
-	3. Symbol Table Organization:
-		- lexicographically binary tree
+
+1. Identifiers:
+- length at most 8 characters
+2. Symbol Table:
+- unique for identifiers and constants
+3. Symbol Table Organization:
+- lexicographically binary tree
 
 
 ~Lab 2:
